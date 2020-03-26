@@ -8,4 +8,5 @@ Learn to create a chat room using node、express、Socket.io
   npm run dev
   port: 3000
 ```
-- 学习构建聊天室！~
+---
+   Learn to create a simple chat room demo!~

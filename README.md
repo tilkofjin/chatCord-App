@@ -1,3 +1,5 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tilkofjin&show_icons=true&theme=radical)
+
 # chatCord-App
 Learn to create a chat room using node、express、Socket.io
 
